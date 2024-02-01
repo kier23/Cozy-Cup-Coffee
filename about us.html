@@ -15,23 +15,28 @@
             padding: 0;
             font-family: 'Arial', sans-serif;
         }
+
         header {
             background-color: #333;
             color: #fff;
             padding: 10px;
             text-align: center;
         }
+
         nav {
             display: flex;
             justify-content: center;
             background-color: #444;
             padding: 10px;
         }
+
         nav a {
             color: #fff;
             text-decoration: none;
             padding: 10px 20px;
+            transition: background-color 0.3s ease;
         }
+
         nav a:hover {
             background-color: #555;
         }
@@ -64,6 +69,7 @@
             max-width: 100%;
             margin-bottom: 10px;
         }
+
         footer {
             background-color: #333;
             color: #fff;
@@ -77,8 +83,42 @@
             max-width: 30px;
             max-height: 30px; 
         }
+
         form {
             margin-top: 20px;
+        }
+
+        .about-us {
+            padding: 20px;
+        }
+
+        .cafe-story,
+        .meet-the-team,
+        .cafe-mission {
+            margin-bottom: 40px;
+        }
+
+        .team-member {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .team-member img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+
+        h2,
+        h3,
+        h4 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
         }
     </style>
 </head>
@@ -101,10 +141,10 @@
         
         <div class="cafe-story">
             <h3>Café Story</h3>
-            <p>Coz Cup Coffee was founded in 2010 by two passionate coffee enthusiasts, 
-            Miguel and Kier, in the heart of a vibrant neighborhood. 
-            The inspiration behind the café's establishment stemmed from their shared 
-            love for high-quality coffee and a desire to create a cozy space for the community.</p>
+            <p>Coz Cup Coffee was founded in 2010 by two passionate coffee enthusiasts,
+                Miguel and Kier, in the heart of a vibrant neighborhood.
+                The inspiration behind the café's establishment stemmed from their shared
+                love for high-quality coffee and a desire to create a cozy space for the community.</p>
         </div>
         <h3>Meet the Team</h3>
         <div class="meet-the-team">
@@ -113,30 +153,29 @@
                 <img src="Profile/kier.jpg" alt="Owner Photo">
                 <h4>Kier</h4>
                 <p>Owner</p>
-                <p>Bio: Kier, a dedicated coffee shop owner, infuses warmth and community into every cup at "Cozy Cup Coffee," 
-                where his commitment to quality brews and inviting ambiance creates a haven for coffee enthusiasts to savor the perfect blend.</p>
+                <p>Bio: Kier, a dedicated coffee shop owner, infuses warmth and community into every cup at "Cozy Cup Coffee,"
+                    where his commitment to quality brews and inviting ambiance creates a haven for coffee enthusiasts to savor the perfect blend.</p>
             </div>
             <div class="team-member">
                 <img src="Profile/miguel.jpg" alt="Owner Photo">
                 <h4>Miguel</h4>
                 <p>Owner</p>
-                <p>Bio: Miguel, a visionary coffee shop owner, orchestrates a sensory journey at "Cozy Cup Coffee," 
-                    where his passion for ethically sourced beans and artisanal brewing transforms every visit into a delightful 
+                <p>Bio: Miguel, a visionary coffee shop owner, orchestrates a sensory journey at "Cozy Cup Coffee,"
+                    where his passion for ethically sourced beans and artisanal brewing transforms every visit into a delightful
                     experience for patrons seeking a harmonious blend of flavor and ambiance.</p>
             </div>
-            
+
         </div>
 
         <div class="cafe-mission">
             <h3>Café's Mission</h3>
-            <p>"At Coz Cup Coffee, our mission is to create a haven for coffee enthusiasts, where the rich aroma of freshly brewed beans meets the warmth of community. 
-                We strive to offer more than just a cup of coffee; 
-                we aim to provide a cozy and welcoming space that becomes an extension of your home, fostering connections, conversations, 
+            <p>"At Coz Cup Coffee, our mission is to create a haven for coffee enthusiasts, where the rich aroma of freshly brewed beans meets the warmth of community.
+                We strive to offer more than just a cup of coffee;
+                we aim to provide a cozy and welcoming space that becomes an extension of your home, fostering connections, conversations,
                 and a shared love for exceptional coffee."</p>
         </div>
     </section>
 
-    
     <footer>
         <div class="contact-info">
             <p>Address: Rizal Street, Puerto Princesa City, Palawan</p>
