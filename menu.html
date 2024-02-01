@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Café Name</title>
+    <title>Cozy Cup Cafe</title>
     <style>
         body {
             margin: 0;
@@ -16,11 +16,16 @@
             padding: 10px;
             text-align: center;
         }
+        .logo {
+            max-width: 100px; /* Set the maximum width for the logo */
+            max-height: 60px; /* Set the maximum height for the logo */
+        }
         nav {
             display: flex;
             justify-content: center;
             background-color: #444;
             padding: 10px;
+            border-bottom: 2px solid #333;
         }
         nav a {
             color: #fff;
@@ -35,10 +40,12 @@
             padding: 50px;
             background: url('cafe-interior-image.jpg') center/cover no-repeat;
             color: #fff;
+            border-bottom: 2px solid #333;
         }
         .featured-products {
             text-align: center;
             padding: 50px;
+            border-bottom: 2px solid #333;
         }
         footer {
             background-color: #333;
@@ -48,9 +55,11 @@
             position: relative;
             bottom: 0;
             width: 100%;
+            border-top: 2px solid #555;
         }
-        .social-icons {
-            margin-top: 20px;
+        .social-icons img {
+            max-width: 30px;
+            max-height: 30px; 
         }
         form {
             margin-top: 20px;
@@ -59,6 +68,7 @@
         .menu-section {
             text-align: center;
             padding: 50px;
+            border-bottom: 2px solid #555;
         }
         .menu-item {
             margin-bottom: 20px;
@@ -67,13 +77,13 @@
 </head>
 <body>
     <header>
-        <h1>Café Logo</h1>
+        <img src="Logo/Logo.jpg" class="logo">
     </header>
 
     <nav>
-        <a href="#">Home</a>
-        <a href="#">Menu</a>
-        <a href="#">About Us</a>
+        <a href="index.html">Home</a>
+        <a href="menu.html">Menu</a>
+        <a href="about us.html">About Us</a>
         <a href="#">Contact</a>
     </nav>
 
@@ -102,8 +112,9 @@
             <p>Price: $2.00</p>
         </div>
         <div class="menu-item">
+            <img src="Products/Ham and cheese.jpg">
             <h3>Ham and Cheese</h3>
-            <p>Soft and moist baked goods, available in various flavors.</p>
+            <p>Grilled Ham and cheese with a dash of parsley</p>
             <p>Price: $2.50</p>
         </div>
 
