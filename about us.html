@@ -14,31 +14,34 @@
             margin: 0;
             padding: 0;
             font-family: 'Arial', sans-serif;
+            color: black;
+            background-color: #F1F7EE;
         }
-
         header {
-            background-color: #333;
+            background-color: #F1F7EE;
             color: #fff;
             padding: 10px;
             text-align: center;
         }
-
+        .branding {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px;
+        }
         nav {
             display: flex;
             justify-content: center;
-            background-color: #444;
+            background-color: #92AA83;
             padding: 10px;
         }
-
         nav a {
             color: #fff;
             text-decoration: none;
             padding: 10px 20px;
-            transition: background-color 0.3s ease;
         }
-
         nav a:hover {
-            background-color: #555;
+            background-color: #B0BEA9;
         }
         .about-us {
             text-align: center;
@@ -64,6 +67,7 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             max-width: 300px;
             text-align: center;
+            background-color: #B0BEA9
         }
         .team-member img {
             max-width: 100%;
@@ -118,31 +122,37 @@
             object-fit: cover;
             margin-bottom: 10px;
         }
-
-        h2,
-        h3,
-        h4 {
-            color: #333;
+        button {
+            background-color: #444;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
         }
-
-        p {
-            color: #666;
+        button:hover {
+            background-color: #555;
+        }
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
         }
     </style>
 </head>
 
 <body>
 
-    <header>
+    <div class="branding">
         <img src="Logo/Logo.jpg" class="logo">
-    </header>
-
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="menu.html">Menu</a>
-        <a href="#">About Us</a>
-        <a href="#">Contact</a>
-    </nav>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="menu.html">Menu</a>
+            <a href="about us.html">About Us</a>
+            <a href="Contacts.html">Contact</a>
+        </nav>
+    </div>
 
     <h2>About Us</h2>
     <section class="about-us">
