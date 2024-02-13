@@ -1,7 +1,7 @@
 # Cozy-Cup-Coffee
 
 ## Project Description
-<p>Cozy Cup Cafe: Sip, Relax, Enjoy!
+<p>Cozy Cup Coffee: Chase away the chill with cozy vibes!
 
 Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of bliss. Immerse yourself in our inviting ambiance, savor artisanal brews, and indulge in delectable treats. Whether you're catching up with friends, working remotely, or simply seeking a cozy escape, our cafe is your perfect retreat. Join us for a delightful experience that goes beyond coffee—it's a moment of comfort in every cup.</p>
 ## Features
@@ -24,14 +24,14 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 
 ## Screen Captures
 
- <img src="captures/348s.jpg" alt="Salmon omlet" width="150">
-        <p>Salmon omlet, got pancakes instead of reg toast!</p>
-         <img src="captures/dd.jpg" alt="Sausage, two eggs, country potatoes" width="150">
-        <p>Sausage, two eggs, country potatoes, and a biscuit with gravy.</p>
-         <img src="captures/o.jpg" alt="Ground beef and spinach" width="150">
-        <p>Ground beef and spinach in the SF scramble... Delish!</p>
-         <img src="captures/ss.jpg" alt="Verde chilaquiles" width="150">
-        <p>Verde chilaquiles and country fried steak</p>
+<img src="products/Croissant.jpeg" alt="Croissant" width="150">
+<p>A buttery, flaky, and delicious pastry.</p>
+<img src="products/cappucino.jpg" alt="cappucino" width="150">
+<p>A coffee drink that is composed of espresso and equal parts steamed milk and foam.</p>
+<img src="products/Ham and cheese.jpg" alt="Ham and cheesee" width="150">
+<p>Grilled Ham and cheese with a dash of parsley</p>
+<img src="products/Latte.jpg" alt="Verde chilaquiles" width="150">
+<p>A coffee drink made with espresso and steamed milk.</p>
 
 
 
@@ -39,9 +39,18 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 
 <img src="https://avatars.githubusercontent.com/u/156798121?v=4" alt="Your GitHub Profile Picture" width="150" style="border-radius: 50%;">
 
-## Name: Jose Miguel N. Blas II
-## Email: miguelbryson348@gmail.com
+### Name: Jose Miguel N. Blas II
+### Email: miguelbryson348@gmail.com
+[![Facebook](./Icon/Facebook.png)](https://www.facebook.com/jay.emii.908)
+[![Github](./icon/Github.png)](https://github.com/migblasino)
 
-[![Facebook](./icons/Facebook.png)](https://www.facebook.com/jay.emii.908)
-[![Github](./icons/Github.png)](https://github.com/migblasino)
+<img src="https://avatars.githubusercontent.com/u/126538958?v=4" alt="Your GitHub Profile Picture" width="150" style="border-radius: 50%;">
+
+### Name: Kier Wilson M. Familaran
+### Email: kier.familaran@gmail.com
+[![Facebook](./Icon/Facebook.png)](https://www.facebook.com/kier.familaran.7)
+[![Github](./icon/Github.png)](https://github.com/kier23)
+
+
+
 
