@@ -24,13 +24,13 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 
 ## Screen Captures
 
-<img src="products/Croissant.jpeg" alt="Croissant" width="150">
+<img src="Products/Croissant.jpeg" alt="Croissant" width="150">
 <p>A buttery, flaky, and delicious pastry.</p>
-<img src="products/cappucino.jpg" alt="cappucino" width="150">
+<img src="Products/cappucino.jpg" alt="cappucino" width="150">
 <p>A coffee drink that is composed of espresso and equal parts steamed milk and foam.</p>
-<img src="products/Ham and cheese.jpg" alt="Ham and cheesee" width="150">
+<img src="Products/Ham and cheese.jpg" alt="Ham and cheesee" width="150">
 <p>Grilled Ham and cheese with a dash of parsley</p>
-<img src="products/Latte.jpg" alt="Verde chilaquiles" width="150">
+<img src="Products/Latte.jpg" alt="Verde chilaquiles" width="150">
 <p>A coffee drink made with espresso and steamed milk.</p>
 
 
@@ -42,14 +42,14 @@ Discover a haven of warmth at Cozy Cup Cafe, where every sip is a moment of blis
 ### Name: Jose Miguel N. Blas II
 ### Email: miguelbryson348@gmail.com
 [![Facebook](./Icon/Facebook.png)](https://www.facebook.com/jay.emii.908)
-[![Github](./icon/Github.png)](https://github.com/migblasino)
+[![Github](./Icon/Github.png)](https://github.com/migblasino)
 
 <img src="https://avatars.githubusercontent.com/u/126538958?v=4" alt="Your GitHub Profile Picture" width="150" style="border-radius: 50%;">
 
 ### Name: Kier Wilson M. Familaran
 ### Email: kier.familaran@gmail.com
 [![Facebook](./Icon/Facebook.png)](https://www.facebook.com/kier.familaran.7)
-[![Github](./icon/Github.png)](https://github.com/kier23)
+[![Github](./Icon/Github.png)](https://github.com/kier23)
 
 
 
